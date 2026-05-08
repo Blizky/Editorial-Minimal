@@ -1,3 +1,5 @@
+![Editorial Minimal preview](screenshot.jpg)
+
 # Editorial Minimal
 
 Editorial Minimal is an Obsidian theme inspired by Typora and GitHub styles, designed to provide a clean space to focus on ideas and easy navigation for research.
